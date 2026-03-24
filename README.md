@@ -18,4 +18,9 @@ Current public URLs:
 - `https://vbjgwky29r-create.github.io/anglewise-release-site/privacy.html`
 - `https://github.com/vbjgwky29r-create/anglewise-release-site`
 
+Preferred custom domain target:
+
+- `https://anglewise.chenyanhong.com/support.html`
+- `https://anglewise.chenyanhong.com/privacy.html`
+
 These pages are intentionally static because the app itself has no backend.
