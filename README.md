@@ -9,7 +9,13 @@ This folder contains static pages for App Store metadata:
 Before publishing these pages:
 
 1. Replace `173639767@qq.com` if you later move to a dedicated support address.
-2. Host the folder on any static host you control.
+2. If needed, republish the folder on any static host you control.
 3. Use the hosted URLs as the App Store Connect `Support URL` and `Privacy Policy URL`.
+
+Current public URLs:
+
+- `https://vbjgwky29r-create.github.io/anglewise-release-site/support.html`
+- `https://vbjgwky29r-create.github.io/anglewise-release-site/privacy.html`
+- `https://github.com/vbjgwky29r-create/anglewise-release-site`
 
 These pages are intentionally static because the app itself has no backend.
